@@ -1,1 +1,2 @@
 vim read.txt
+commit -m "commit read.txt"
